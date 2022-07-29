@@ -229,7 +229,7 @@ MMSegmentation is released under the Apache 2.0 license, while some specific fea
 - [MMGeneration](https://github.com/open-mmlab/mmgeneration): OpenMMLab image and video generative models toolbox.
 - [MMDeploy](https://github.com/open-mmlab/mmdeploy): OpenMMLab Model Deployment Framework.
 
-nihao
-a
-b
-c
+dfd 
+dosf 
+fdsf 
+ds
